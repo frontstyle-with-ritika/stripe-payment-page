@@ -2,7 +2,10 @@
     margin: 0;
     padding:0;
     box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
+    
+}
+body {
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .header{
@@ -17,6 +20,7 @@
     align-items: center;
 }
 .logo a{
+    
     text-decoration: none;
     font-size: 24px;
     font-weight: 600;
